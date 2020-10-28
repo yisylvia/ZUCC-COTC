@@ -1,1 +1,2 @@
 上传一个test_xxx.txt文件，内容是你们的名字
+(test_xxx的xxx是你们名字首字母
